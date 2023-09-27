@@ -27,7 +27,6 @@ img{
     width: auto;
     display: flex;
     justify-self: center;
-    pointer-events: none;
 }
 
 @keyframes bigger {
