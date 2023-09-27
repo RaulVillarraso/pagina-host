@@ -1,0 +1,29 @@
+body{
+    height: 95vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+header{
+    display: flex;
+    width: 50%;
+    height: 20px;
+    justify-self: flex-start;
+    justify-content: center;
+    background-color: lightcoral;
+}
+footer{
+    display: flex;
+    width: 50%;
+    justify-self: flex-end;
+    height: 20px;
+    background-color: aquamarine;
+    justify-content: center;
+}
+img{
+    width: 50%;
+    display: flex;
+    justify-self: center;
+}
