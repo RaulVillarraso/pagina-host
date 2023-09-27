@@ -27,6 +27,7 @@ img{
     width: auto;
     display: flex;
     justify-self: center;
+    -webkit-touch-callout: none;
 }
 
 @keyframes bigger {
